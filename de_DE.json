@@ -10,6 +10,9 @@
 		"privatserver.message.create": "§l§6P-Server §r§8»§7 §aServer wird erstellt...",
 		"privatserver.message.start": "§l§6P-Server §r§8» §7§aServer wird gestartet...",
 		"privatserver.message.stop": "§l§6P-Server §r§8» §7 §cServer wird heruntergefahren!",
-		"privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cDein Server ist bereits online!"
+		"privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cDein Server ist bereits online!",
+		"buildffa.message.popup": "§cTeaming ist nicht erlaubt!\n§cSortiere dein inventar mit /inv!",
+		"buildffa.map.message.min": "§bKarte §8» §7Die Karte ändert sich in §g#0# §7Minuten!",
+		"buildffa.map.message": "§bKarte §8» §7Die Karte ändert sich in §g#0# §7Sekunden!"
 	}
 }
