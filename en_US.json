@@ -14,6 +14,8 @@
 		"privatserver.message.create": "§l§6P-Server §r§8» §7 §aServer is now startup...",
 		"privatserver.message.start": "§l§6P-Server §r§8» §7 §aServer is now starting...",
 		"privatserver.message.stop": "§l§6P-Server §r§8» §7 §cServer is now stopping...",
-		"privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cYour Server is already online!"
+		"privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cYour Server is already online!",
+		
+		"buildffa.message.popup": "§cTeaming is not allowed!\n§cSort your inv with /inv!"
 	}  
 }
