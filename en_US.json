@@ -2,10 +2,10 @@
 	"name": "English",
 	"localeCode": "en_US",
 	"values": {
-		"message.languageapi.updated": "§eLanguage §8» §7You changed your §eLanguage§7 to #0#.",
-		"languageAPI.message.reload": "§4Royale§bGames §8» §gYou reloaded the Language-keys Succsessfully.",
+		"languageapi.message.updated": "§eLanguage §8» §7You changed your §eLanguage§7 to #0#.",
+		"languageapi.message.reload": "§4Royale§bGames §8» §gYou reloaded the Language-keys Succsessfully.",
 		"schildersystem.message.teleport": "§4Royale§bGames §8» §7 You will now be transferred!",
 		"verify.message.id": "§bVerify §8» §7 Your id is #0#",
-		"no.perm": "You dont have the permission to use this!"
+		"server.message.permission": "You dont have the permission to use this!"
 	}  
 }
