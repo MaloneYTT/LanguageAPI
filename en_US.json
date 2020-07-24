@@ -4,10 +4,16 @@
 	"values": {
 		"languageapi.message.updated": "§eLanguage §8» §7You changed your §eLanguage§7 to #0#.",
 		"languageapi.message.reload": "§4Royale§bGames §8» §gYou reloaded the Language-keys Succsessfully.",
-		"schildersystem.message.teleport": "§4Royale§bGames §8» §7 You will now be transferred!",
+		
+		"schildersystem.message.teleport": "§4Royale§bGames §8» §7 You will be transferred now!",
+		
 		"verify.message.id": "§bVerify §8» §7 Your id is #0#",
+		
 		"server.message.permission": "You dont have the permission to use this!",
-		"privatserver.message.create": "§l§6P-Server §r§8» §7 §aServer is in startup...",
-		"privatserver.message.start": "§l§6P-Server §r§8» §7 §aServer is in starting..."
+		
+		"privatserver.message.create": "§l§6P-Server §r§8» §7 §aServer is now startup...",
+		"privatserver.message.start": "§l§6P-Server §r§8» §7 §aServer is now starting..."
+		"privatserver.message.stop": "§l§6P-Server §r§8» §7 §cServer is now stopping...",
+		"privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cYour Server is already online!"
 	}  
 }
