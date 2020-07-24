@@ -7,5 +7,7 @@
 		"schildersystem.message.teleport": "§4Royale§bGames §8» §7 You will now be transferred!",
 		"verify.message.id": "§bVerify §8» §7 Your id is #0#",
 		"server.message.permission": "You dont have the permission to use this!"
+		"privatserver.message.create": "§l§6P-Server §r§8» §7 §aServer is in startup..."
+		"privatserver.message.start": "§l§6P-Server §r§8» §7 §aServer is in starting..."
 	}  
 }
