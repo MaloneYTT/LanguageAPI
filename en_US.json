@@ -12,7 +12,7 @@
 		"server.message.permission": "You dont have the permission to use this!",
 		
 		"privatserver.message.create": "§l§6P-Server §r§8» §7 §aServer is now startup...",
-		"privatserver.message.start": "§l§6P-Server §r§8» §7 §aServer is now starting..."
+		"privatserver.message.start": "§l§6P-Server §r§8» §7 §aServer is now starting...",
 		"privatserver.message.stop": "§l§6P-Server §r§8» §7 §cServer is now stopping...",
 		"privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cYour Server is already online!"
 	}  
