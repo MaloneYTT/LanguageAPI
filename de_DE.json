@@ -2,8 +2,10 @@
 	"name": "Deutsch",
 	"localeCode": "de_DE",
 	"values": {
-		"language.key": "Key here",
 		"message.languageapi.updated": "§eLanguage §8» §7Du hast deine §eSprache §7auf #0# gesetzt...",
-		"cloud.teleport": "§4Roytedtale§bGames §8» §7Du wirst nun Teleportiert! #0#"
+		"languageAPI.message.reload": "§4Royale§bGames §8» §gDu hast erfolgreich die §9Language-Keys§g neugeladen.",
+		"schildersystem.message.teleport": "§4Royale§bGames §8» §7Du wirst nun Teleportiert! #0#",
+		"verify.message.id": "§bVerify §8» §7 Deine id ist§a #0#";
+		"no.perm": "§cDu hast nicht die Berechtigung um diesen Befehl auszuführen."
 	}
 }
