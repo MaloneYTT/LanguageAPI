@@ -4,18 +4,15 @@
 	"values": {
 		"languageapi.message.updated": "§eLanguage §8» §7You changed your §eLanguage§7 to #0#.",
 		"languageapi.message.reload": "§4Royale§bGames §8» §gYou reloaded the Language-keys Succsessfully.",
-		
 		"schildersystem.message.teleport": "§4Royale§bGames §8» §7 You will be transferred now!",
-		
 		"verify.message.id": "§bVerify §8» §7 Your id is #0#",
-		
 		"server.message.permission": "You dont have the permission to use this!",
-		
 		"privatserver.message.create": "§l§6P-Server §r§8» §7 §aServer is now startup...",
 		"privatserver.message.start": "§l§6P-Server §r§8» §7 §aServer is now starting...",
 		"privatserver.message.stop": "§l§6P-Server §r§8» §7 §cServer is now stopping...",
-		"privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cYour Server is already online!",
-		
-		"buildffa.message.popup": "§cTeaming is not allowed!\n§cSort your inv with /inv!"
+		"privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cYour Server is already online!",	
+		"buildffa.message.popup": "§cTeaming is not allowed!\n§cSort your inv with /inv!",
+		"buildffa.map.message.min": "§bMap §8» §7The map change in §g#0# §7minuts!",
+		"buildffa.map.message": "§bMap §8» §7The map change in §g#0# §7seconds!"
 	}  
 }
