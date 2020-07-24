@@ -9,6 +9,7 @@
 		"server.message.permission": "§cDu hast nicht die Berechtigung um diesen Befehl auszuführen.",
 		"privatserver.message.create": "§l§6P-Server §r§8»§7 §aServer wird erstellt...",
 		"privatserver.message.start": "§l§6P-Server §r§8» §7§aServer wird gestartet...",
-		"privatserver.message.stop": "§l§6P-Server §r§8» §7 §cServer wird heruntergefahren!"
+		"privatserver.message.stop": "§l§6P-Server §r§8» §7 §cServer wird heruntergefahren!",
+		"privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cDein Server ist bereits online!"
 	}
 }
