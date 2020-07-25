@@ -11,7 +11,7 @@
 		"schildersystem.message.pc": "§4Royale§bGames §8» §cDie Runde ist nur für Windows 10 Spieler",
 		"schildersystem.round.heigherrank ": "§4Royale§bGames §8» §cDu brauchst ein höheren Rang um zu Joinen.",
 		"schildersystem.round.inprocess ": "§4Royale§bGames §8» §cDiese runde läuft breits",
-		"hub.message.second": "§3§lLobby §8» §aDu wirst nun zur §eLobby §atransferiert,
+		"hub.message.second": "§3§lLobby §8» §aDu wirst nun zur §eLobby §atransferiert",
 		"verify.message.id": "§bVerify §8» §7 Deine id ist§a #0#",
 		"server.message.permission": "§cDu hast nicht die Berechtigung um diesen Befehl auszuführen.",
 		"privatserver.message.create": "§l§6P-Server §r§8»§7 §aServer wird erstellt...",
