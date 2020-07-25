@@ -12,7 +12,7 @@
 		"privatserver.message.stop": "§l§6P-Server §r§8» §7 §cServer is now stopping...",
 		"privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cYour Server is already online!",	
 		"buildffa.message.popup": "§cTeaming is not allowed!\n§cSort your inv with /inv!",
-		"buildffa.map.message.min": "§bMap §8» §7The map change in §g#0# §7minuts!",
+		"buildffa.map.message.min": "§bMap §8» §7The map change in §g#0# §7minutes!",
 		"buildffa.map.message": "§bMap §8» §7The map change in §g#0# §7seconds!",
 		"server.message.beta": "§4Royale§bGames §8» §7We are still in §gBeta§7 use §g/bug§7 to tell us some bugs!"
 	}  
