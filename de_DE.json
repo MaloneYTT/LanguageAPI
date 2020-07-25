@@ -14,6 +14,6 @@
 		"buildffa.message.popup": "§cTeaming ist nicht erlaubt!\n§cSortiere dein inventar mit /inv!",
 		"buildffa.map.message.min": "§bKarte §8» §7Die Karte ändert sich in §g#0# §7Minuten!",
 		"buildffa.map.message": "§bKarte §8» §7Die Karte ändert sich in §g#0# §7Sekunden!",
-		"server.message.beta": "§4Royale§bGames §8» §7Aktuell sinr wir in der §gBeta-phase§7 nutze §g/bug§7 um uns eine bug mitzuteilen!"
+		"server.message.beta": "§4Royale§bGames §8» §7Aktuell sind wir in der §gBeta-phase§7 nutze §g/bug§7 um uns eine bug mitzuteilen!"
 	}
 }
