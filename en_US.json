@@ -14,6 +14,7 @@
 		"buildffa.message.popup": "§cTeaming is not allowed!\n§cSort your inv with /inv!",
 		"buildffa.map.message.min": "§bMap §8» §The map changes in §g#0# §7minutes!",
 		"buildffa.map.message": "§bMap §8» §7The map changes in §g#0# §7seconds!",
-		"server.message.beta": "§4Royale§bGames §8» §7We are still in §gBeta§7 use §g/bug§7 to tell us some bugs!"
+		"server.message.beta": "§4Royale§bGames §8» §7We are still in §gBeta§7 use §g/bug§7 to tell us some bugs!",
+		"hub.message.second": "§3§lLobby §8» §aYou will now be transferred to the §eLobby",
 	}  
 }
