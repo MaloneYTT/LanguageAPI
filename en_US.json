@@ -1,19 +1,27 @@
 {
-	"name": "English",
-	"localeCode": "en_US",
-	"values": {
-		"languageapi.message.updated": "§eLanguage §8» §7You changed your §eLanguage§7 to #0#.",
-		"languageapi.message.reload": "§4Royale§bGames §8» §gYou reloaded the Language-keys Succsessfully.",
-		"schildersystem.message.teleport": "§4Royale§bGames §8» §7 You will be transferred now!",
-		"verify.message.id": "§bVerify §8» §7 Your id is #0#",
-		"server.message.permission": "You dont have the permission to use this!",
-		"privatserver.message.create": "§l§6P-Server §r§8» §7 §aServer is now startup...",
-		"privatserver.message.start": "§l§6P-Server §r§8» §7 §aServer is now starting...",
-		"privatserver.message.stop": "§l§6P-Server §r§8» §7 §cServer is now stopping...",
-		"privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cYour Server is already online!",	
-		"buildffa.message.popup": "§cTeaming is not allowed!\n§cSort your inv with /inv!",
-		"buildffa.map.message.min": "§bMap §8» §The map changes in §g#0# §7minutes!",
-		"buildffa.map.message": "§bMap §8» §7The map changes in §g#0# §7seconds!",
-		"server.message.beta": "§4Royale§bGames §8» §7We are still in §gBeta§7 use §g/bug§7 to tell us some bugs!"
-	}  
+    "name": "English",
+    "localeCode": "en_US",
+    "values": {
+        "languageapi.message.updated": "§eLanguage §8» §7You changed your §eLanguage§7 to #0#.",
+        "languageapi.message.reload": "§4Royale§bGames §8» §gYou reloaded the Language-keys Succsessfully.",
+        "schildersystem.message.teleport": "§4Royale§bGames §8» §7 You will be transferred now!",
+        "schildersystem.message.offline": "§4Royale§bGames §8» §cThis server currently Offline",
+	"schildersystem.message.maintance": "§4Royale§bGames §8» §cthis server is currently in maintenance",
+	"schildersystem.message.mobile": "§4Royale§bGames §8» §cThis Round is only for mobile players",
+	"schildersystem.message.pc": "§4Royale§bGames §8» §cThis Round is only for Windows10 players",
+	"schildersystem.message.heigherrank ": "§4Royale§bGames §8» §cYou need a higher Rank to Join",
+	"schildersystem.message.inprocess ": "§4Royale§bGames §8» §cThis round is already running",
+        "verify.message.id": "§bVerify §8» §7 Your id is #0#",
+        "server.message.permission": "You dont have the permission to use this!",
+        "privatserver.message.create": "§l§6P-Server §r§8» §7 §aServer is now creating...",
+        "privatserver.message.start": "§l§6P-Server §r§8» §7 §aServer is now starting...",
+        "privatserver.message.stop": "§l§6P-Server §r§8» §7 §cServer is now stopping...",
+        "privatserver.message.teleport": "§l§6P-Server §r§8» §7You were Teleported",
+        "privatserver.message.isOnline": "§l§6P-Server §r§8» §7 §cYour Server is already online!",
+        "buildffa.message.popup": "§cTeaming is not allowed!\n§cSort your inventory with /inv!",
+        "buildffa.map.message.min": "§bMap §8» §The map changes in §g#0# §7minutes!",
+        "buildffa.map.message": "§bMap §8» §7The map changes in §g#0# §7seconds!",
+        "server.message.beta": "§4Royale§bGames §8» §7We are still in §gBeta§7 use §g/bug§7 to tell us some bugs!",
+        "soupffa.herzen.full": "§4Royale§bGames §8» §7Your hearts are already full!"
+    }
 }
